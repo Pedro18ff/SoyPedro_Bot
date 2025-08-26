@@ -6,11 +6,10 @@
   "type": "module",
   "directories": {
     "lib": "lib",
-    "src": "src",
     "plugins": "plugins"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node main.js"
   },
   "homepage": "https://github.com/Pedro18ff/SoyPedro_Bot",
   "author": {
@@ -30,7 +29,7 @@
     "@StarlightsTeam/Scraper": "github:Ado926/Starlights-Scraper",
     "@whiskeysockets/baileys":  "github:Ado-rgb/AdonixBaileys",
     "api-dylux": "^1.8.5",
-    "aptoide-scraper": "github:DIEGO-OFC/dv-aptoide-scraper",
+    "aptoide-scraper": "github:Pedro18ff/dv-aptoide-scraper",
     "ruhend-scraper": "*",
     "boxen": "^7.1.1",
     "awesome-phonenumber": "^3.4.0",
