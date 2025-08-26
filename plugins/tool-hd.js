@@ -1,4 +1,4 @@
-//--> Hecho por Ado-rgb (github.com/Ado-rgb)
+//--> Hecho por SoyPedro (GitHub.com/Pedro18ff)
 // •|• No quites créditos..
 import fetch from 'node-fetch'
 import FormData from 'form-data'

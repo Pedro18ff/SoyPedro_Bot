@@ -1,7 +1,7 @@
 /**
  * Comando: .copiabots
- * Autor: Ado-rgb
- * Repositorio: github.com/Ado-rgb
+ * Autor: SoyPedro 
+ * Repositorio: (github.com/Pedro18ff)
  * 🚫 No quitar créditos
  * 
  * Funcionalidad:

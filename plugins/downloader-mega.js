@@ -1,4 +1,4 @@
-// >>⟩ Creador original GianPoolS < github.com/GianPoolS >
+// >>⟩ Creador original Pedro < github.com/GianPoolS >
 // >>⟩ No quites los creditos
 
 import { File } from "megajs";

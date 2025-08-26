@@ -1,4 +1,4 @@
-// >>⟩ Creador original GianPoolS < github.com/GianPoolS >
+// >>⟩ Creador original SoyPedro < GitHub.com/Pedro18ff >
 // >>⟩ No quites los créditos
 
 import fs from 'fs'
@@ -48,7 +48,7 @@ const handler = async (m, { conn }) => {
     const namebot = 'Bot Oficial ✅'
 
     const buttonMessage = {
-      document: Buffer.from("MichiBot Tutorial"), // 👈 falso archivo
+      document: Buffer.from("PedroBot Tutorial"), // 👈 falso archivo
       mimetype: `application/${document}`,
       fileName: `「  𝑯𝒆𝒍𝒍𝒐 𝑾𝒐𝒓𝒍𝒅 」`,
       fileLength: 99999999999999,
@@ -57,13 +57,13 @@ const handler = async (m, { conn }) => {
         forwardingScore: 200,
         isForwarded: true,
         externalAdReply: {
-          mediaUrl: 'https://github.com/Ado-Rgb',
+          mediaUrl: 'https://youtube.com/shorts/UFg2civm7eE?si=WY5hQJdAO5mUEsJz',
           mediaType: 2,
           previewType: 'pdf',
           title: 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',
           body: namebot,
           thumbnail: fs.readFileSync('./storage/img/menu.jpg'), // 👈 preview como JPG
-          sourceUrl: 'https://www.youtube.com/'
+          sourceUrl: 'https://www.youtube.com/redirect?event=channel_header&redir_token=QUFFLUhqbXRWY3p5bWdyX0FILTJwUkdSaDM2MG4zUmRhd3xBQ3Jtc0ttd3NxVl9CYmtDTnk0RHhmS3Z4WjRuZmhnR25kbDJmbVF6YnJCU2pnM19tZ0hRRHhjLW1hYm5oOHh1ckE4YXlzZElxVVRPWlo0a1dQSktmRm0wMnZtYURUaXEzYTliN1ZLbWowWXBRS2lZdmo0WlFuVQ&q=https%3A%2F%2Fwww.tiktok.com%2F%40pedro17_ff%3F_t%3DZS-8y6jlEaF3iP%26_r%3D1'
         }
       },
       caption: text,

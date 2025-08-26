@@ -1,4 +1,4 @@
-//--> Hecho por Ado-rgb (github.com/Ado-rgb)
+//--> Hecho por SoyPedro (GitHub.com/Pedro18ff) <
 // •|• No quites créditos we
 
 import fetch from 'node-fetch'

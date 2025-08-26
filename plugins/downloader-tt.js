@@ -6,7 +6,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
 ${usedPrefix + command} <enlace válido de TikTok>
 
 Ejemplo:
-${usedPrefix + command} https://www.tiktok.com/@usuario/video/123456789`
+${usedPrefix + command} https://youtube.com/shorts/UFg2civm7eE?si=WY5hQJdAO5mUEsJz`
   )
 
   try {

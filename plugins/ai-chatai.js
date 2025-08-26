@@ -35,7 +35,7 @@ async function consultarIA(pregunta, modeloElegido) {
           'content-type': 'application/json',
           'origin': 'https://whatsthebigdata.com',
           'referer': 'https://whatsthebigdata.com/ai-chat/',
-          'user-agent': 'Mozilla/5.0'
+          'user-agent': 'Pedro/5.0'
         }
       }
     )

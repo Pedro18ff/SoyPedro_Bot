@@ -10,7 +10,7 @@ Sigue las instrucciones:
 ✎ *Ejemplo ›* ${usedPrefix + command} gatito kawaii con fondo rosa
 
 Recuerda que la imagen puede tardar unos segundos en generarse.
-↺ Sé paciente mientras se crea tu imagen.`)
+↺ Sé paciente mientras se crea tu imagen soli.`)
 
   try {
     // Reaccionar con reloj mientras genera

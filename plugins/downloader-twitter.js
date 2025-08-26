@@ -1,4 +1,4 @@
-//>>⟩ Creado por GianPoolS < github.com/GianPoolS >
+//>>⟩ Creado por SoyPedro < GitHub.com/Pedro18ff >
 
 import fg from 'api-dylux'
 

@@ -1,4 +1,4 @@
-// >>⟩ Creador original GianPoolS < github.com/GianPoolS >
+// >>⟩ Creador original SoyPedro < GitHub.com/Pedro18ff >
 // >>⟩ No quites los créditos
 
 const simpleHandler = async (m, { conn, usedPrefix }) => {

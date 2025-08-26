@@ -9,7 +9,7 @@ async function streamToBuffer(stream) {
 }
 
 let handler = async (m, { conn, text, usedPrefix }) => {
-  if (!text) return conn.reply(m.chat, `🗣️ Mande un texto pa que Adonix le hable al toque`, m)
+  if (!text) return conn.reply(m.chat, `🗣️ Mande un texto pa que Pedro le hable al toque`, m)
 
   try {
     await conn.sendPresenceUpdate('recording', m.chat)

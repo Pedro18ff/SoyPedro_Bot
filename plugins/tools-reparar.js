@@ -1,5 +1,5 @@
-// code creado por 
-// github.com/Ado-rgb
+// code creado por SoyPedro🌸
+// GitHub.com/Pedro18ff
 import fs from 'fs'
 import path from 'path'
 import ffmpeg from 'fluent-ffmpeg'

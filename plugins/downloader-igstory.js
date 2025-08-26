@@ -1,4 +1,4 @@
-// >>⟩ Creador original GianPoolS < github.com/GianPoolS >
+// >>⟩ Creador original Pedro < TikTok.com/@pedro17_ff?is_from_webapp=1&sender_device=pc >
 // >>⟩ No quites los creditos
 
 import fetch from 'node-fetch'

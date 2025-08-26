@@ -192,7 +192,7 @@ handler.before = async (m, { conn }) => {
 👥 Somos *${groupSize}* personas en esta comunidad.
 📌 Porfa sigue las reglas para que todos la pasemos chido.
 🛠️ Si necesitas ayuda, habla con algún admin.
-🌤️ Disfruta de tu estadia.
+🌤️ Disfruta de tu estadia causita.
 `.trim()
 
       await conn.sendMessage(m.chat, {

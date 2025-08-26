@@ -40,7 +40,7 @@ async function maybox(content, mime) {
     method: 'POST',
     body: form,
     headers: {
-      'User-Agent': 'Michi-WaBot',
+      'User-Agent': 'SoyPedro-Bot',
     }
   });
 

@@ -1,7 +1,7 @@
 /**
  * Comando: .apk
- * Autor: Ado-rgb
- * Repositorio: github.com/Ado-rgb
+ * Autor: SoyPedro
+ * Repositorio: https://www.tiktok.com/@pedro17_ff?is_from_webapp=1&sender_device=pc
  * 🚫 No quitar créditos
  */
 

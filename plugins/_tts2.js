@@ -1,4 +1,4 @@
-//--> Hecho por Ado-rgb (github.com/Ado-rgb)
+//--> Hecho por Pedro17_ff (https://www.tiktok.com/@pedro17_ff?is_from_webapp=1&sender_device=pc)
 // •|• No quites créditos..
 import fetch from 'node-fetch';
 

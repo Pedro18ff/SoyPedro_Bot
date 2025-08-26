@@ -20,7 +20,7 @@ cfonts.say('✧ Pedro wa ✧', {
 })
 
 
-cfonts.say('💎 made by Ado 📍', {
+cfonts.say('💎 SoyPedro 📍', {
   font: 'console',     
   align: 'center',
   gradient: ['cyan', 'white'],

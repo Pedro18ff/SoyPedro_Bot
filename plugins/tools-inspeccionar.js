@@ -124,7 +124,7 @@ externalAdReply: {
 title: `> Inspector de Grupos`,
 body: `> ¡Super Inspectador!`,
 thumbnailUrl: pp ? pp : thumb,
-sourceUrl: args[0] ? args[0] : inviteCode ? `https://chat.whatsapp.com/${inviteCode}` : md,
+sourceUrl: args[0] ? args[0] : inviteCode ? `https://www.youtube.com/redirect?event=channel_header&redir_token=QUFFLUhqbXRWY3p5bWdyX0FILTJwUkdSaDM2MG4zUmRhd3xBQ3Jtc0ttd3NxVl9CYmtDTnk0RHhmS3Z4WjRuZmhnR25kbDJmbVF6YnJCU2pnM19tZ0hRRHhjLW1hYm5oOHh1ckE4YXlzZElxVVRPWlo0a1dQSktmRm0wMnZtYURUaXEzYTliN1ZLbWowWXBRS2lZdmo0WlFuVQ&q=https%3A%2F%2Fwww.tiktok.com%2F%40pedro17_ff%3F_t%3DZS-8y6jlEaF3iP%26_r%3D1${inviteCode}` : md,
 mediaType: 1,
 showAdAttribution: false,
 renderLargerThumbnail: false
