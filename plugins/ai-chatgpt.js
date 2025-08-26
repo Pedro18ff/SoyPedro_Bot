@@ -1,4 +1,4 @@
-// » Creado por Ado
+// » Creado por SoyPedro <
 // 🧃 No quites créditos.
 import axios from "axios";
 

@@ -3,17 +3,16 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['50493732693', 'Ado', true],
-  ['51956931649'],
+  ['51994884471', 'TuNombre', true]
 ]
 
 global.mods = []
 global.prems = []
 
-global.namebot = '𝖠𝖨 | 𝖬𝗂𝖼𝗁𝗂 🧃'
-global.packname = '𝖬𝗂𝖼𝗁𝗂 ° 𝖶𝖺 🥞'
-global.author = '𝖠𝖽𝗈 | © 2025 🪸'
-global.moneda = '𝗠𝗮𝗻𝗴𝗼𝘀'
+global.namebot = 'SoyPedro-Bot 🧃'
+global.packname = 'SoyPedro 🥞'
+global.author = 'Pedro | © 2025 🪸'
+global.moneda = 'Soles'
 
 
 
@@ -22,12 +21,12 @@ global.baileys = 'V 6.7.16'
 global.vs = '2.2.0'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots'
-global.yukiJadibts = true
+global.yukiJadiBots = false
 
-global.namecanal = '❇️'
+global.namecanal = '❇️SoyPedro-Bot🧃'
 global.idcanal = '120363403739366547@newsletter'
 global.idcanal2 = '120363403739366547@newsletter'
-global.canal = 'https://whatsapp.com/channel/0029Vb5pM031CYoMvQi2I02D'
+global.canal = 'https://chat.whatsapp.com/Jbi0UN57afA7rN8RyvqwDX'
 global.canalreg = '120363402895449162@newsletter'
 
 global.ch = {

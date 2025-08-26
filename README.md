@@ -1,7 +1,7 @@
-# ⭐ Michi-WaBot
+# ⭐ SoyPedro-Bot
 
 <div align="center">
-  <img src="https://iili.io/FZQTsXR.jpg" alt="Michi-WaBot Logo" width="150"/>
+  <img src="https://iili.io/FZQTsXR.jpg" alt="SoyPedro Logo" width="150"/>
   <br>
   <p>Un bot de WhatsApp ligero, confiable y fácil de usar, diseñado para la comunidad.</p>
 </div>
@@ -35,7 +35,7 @@ Sigue estos pasos para instalar y ejecutar Michi-WaBot en tu dispositivo.
 
 3.  **Clona el Repositorio del Bot**
     ```bash
-    git clone https://github.com/Ado-rgb/Michi-WaBot.git
+    git clone https://github.com/Pedro18ff/SoyPedro_Bot.git
     ```
 
 4.  **Accede al Directorio del Proyecto**
@@ -57,10 +57,10 @@ Sigue estos pasos para instalar y ejecutar Michi-WaBot en tu dispositivo.
 
 ## 🤝 𝗖𝗿𝗲𝗱𝗶𝘁𝗼𝘀 𝘆 𝗔𝗴𝗿𝗮𝗱𝗲𝗰𝗶𝗺𝗶𝗲𝗻𝘁𝗼𝘀
 
-* **Creador y Mantenedor Principal:** [Ado](https://github.com/Ado-rgb)
+* **Creador y Mantenedor Principal:** [Ado](https://github.com/Pedro18ff/SoyPedro_Bot.git)
 
     <div align="center">
-      <a href="https://github.com/Ado-rgb">
+      <a href="https://github.com/Pedro18ff/SoyPedro_Bot.git">
         <img src="https://github.com/Ado-rgb.png" alt="Ado's GitHub Profile Picture" width="80" style="border-radius:50%;" />
       </a>
     </div>
@@ -83,4 +83,4 @@ Sigue estos pasos para instalar y ejecutar Michi-WaBot en tu dispositivo.
 
 Este proyecto está bajo la **Licencia MIT**. Puedes usar, modificar y distribuir el código libremente, siempre y cuando mantengas los créditos originales.
 
-© 2025 Ado.
+© 2025 Pedro.

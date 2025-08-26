@@ -87,7 +87,7 @@ handler.before = async (m, { conn }) => {
     const groupMetadata = await conn.groupMetadata(m.chat)
     const isUserAdmin = groupMetadata.participants.find(p => p.id === m.sender)?.admin
     const text = m?.text || ''
-    const allowedLink = 'https://whatsapp.com/channel/0029VbArz9fAO7RGy2915k3O'
+    const allowedLink = 'https://chat.whatsapp.com/Jbi0UN57afA7rN8RyvqwDX'
 
     if (isUserAdmin || text.includes(allowedLink)) return
 

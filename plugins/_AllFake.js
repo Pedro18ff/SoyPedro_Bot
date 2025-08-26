@@ -8,8 +8,8 @@ export async function before(m, { conn }) {
     let bannerFinal = 'https://files.catbox.moe/wp5z1y.jpg'
 
 
-    const botActual = conn.user?.jid?.split('@')[0].replace(/\D/g, '')
-    const configPath = path.join('./JadiBots', botActual, 'config.json')
+    const configPath = path.join('./config.json')
+
 
     if (fs.existsSync(configPath)) {
       try {

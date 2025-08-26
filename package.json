@@ -1,7 +1,7 @@
 {
-  "name": "Michi-WaBot-MD",
+  "name": "SoyPedro-Bot",
   "version": "1.0.0",
-  "description": "Michi Multi Device",
+  "description": "Soy un bot AI pero aqui estoy para ser amig@s",
   "main": "index.js",
   "type": "module",
   "directories": {
@@ -12,16 +12,16 @@
   "scripts": {
     "start": "node index.js"
   },
-  "homepage": "https://github.com/Ado-rgb/Michi-Wa",
+  "homepage": "https://github.com/Pedro18ff/SoyPedro_Bot",
   "author": {
-    "name": "Ado-rgb"
+    "name": "Pedro18ff"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ado-rgb/Michi-Wa.git"
+    "url": "https://github.com/Pedro18ff/SoyPedro_Bot.git"
   },
   "bugs": {
-    "url": "https://github.com/Ado-rgb/Michi-Wa/issues"
+    "url": "https://github.com/Pedro18ff/SoyPedro_Bot/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {

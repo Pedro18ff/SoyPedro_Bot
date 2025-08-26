@@ -6,7 +6,7 @@ let handler = async (m, { conn, args, command }) => {
   let calidad = args[1] || '1080';
 
   if (!url) {
-    return m.reply(`❗ *Debes proporcionar un enlace de YouTube.*\n\n📌 *Ejemplo:*\n*.ytdl https://youtu.be/dQw4w9WgXcQ*`);
+    return m.reply(`❗ *Debes proporcionar un enlace de YouTube.*\n\n📌 *Ejemplo:*\n*.ytdl https://youtube.com/shorts/UFg2civm7eE?si=jxf2AEUe826XD6t1*`);
   }
 
   if (!esUrlYouTubeValida(url)) {

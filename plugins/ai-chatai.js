@@ -1,6 +1,6 @@
 /**
- * Creado por Ado-rgb
- * Repo: github.com/Ado-rgb
+ * Creado por Pedro18ff
+ * Repo: https://github.com/Pedro18ff/SoyPedro_Bot.git
  * No quitar créditos
  */
 
